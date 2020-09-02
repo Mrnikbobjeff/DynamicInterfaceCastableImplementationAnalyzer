@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAttributeAnalyzer", "InterfaceAttributeAnalyzer\InterfaceAttributeAnalyzer\InterfaceAttributeAnalyzer.csproj", "{6DFC42A0-DD1F-40F3-A8F7-D5D2DC72660A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAttributeAnalyzer.Test", "InterfaceAttributeAnalyzer\InterfaceAttributeAnalyzer.Test\InterfaceAttributeAnalyzer.Test.csproj", "{13200AAD-33FB-4DE6-9D86-9488CB2CBD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAttributeAnalyzer.Vsix", "InterfaceAttributeAnalyzer\InterfaceAttributeAnalyzer.Vsix\InterfaceAttributeAnalyzer.Vsix.csproj", "{255C524C-E948-40A2-9AD6-CB3EB02F263E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFC42A0-DD1F-40F3-A8F7-D5D2DC72660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFC42A0-DD1F-40F3-A8F7-D5D2DC72660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFC42A0-DD1F-40F3-A8F7-D5D2DC72660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFC42A0-DD1F-40F3-A8F7-D5D2DC72660A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13200AAD-33FB-4DE6-9D86-9488CB2CBD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13200AAD-33FB-4DE6-9D86-9488CB2CBD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13200AAD-33FB-4DE6-9D86-9488CB2CBD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13200AAD-33FB-4DE6-9D86-9488CB2CBD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255C524C-E948-40A2-9AD6-CB3EB02F263E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255C524C-E948-40A2-9AD6-CB3EB02F263E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255C524C-E948-40A2-9AD6-CB3EB02F263E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255C524C-E948-40A2-9AD6-CB3EB02F263E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71D666AA-AD97-425B-BC6B-147F4E95405B}
+	EndGlobalSection
+EndGlobal
